@@ -14,5 +14,5 @@ request.get('https://sytantris.github.io/http-examples')               // Note 1
 // Notes:
 // 1. `request.get` is equivalent to `request()`
 // 2. `request.on('error', callback)` handles any error
-// 3. `request.on('response, callback)` handles the response
+// 3. `request.on('response, callback)`  handles the response
 // 4. What is happening here?
